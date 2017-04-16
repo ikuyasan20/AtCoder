@@ -1,4 +1,4 @@
-//http://abc058.contest.atcoder.jp/tasks/arc071_a
+//http://arc071.contest.atcoder.jp/tasks/arc071_a
 #include <iostream>
 using namespace std;
  
